@@ -1,10 +1,10 @@
 # Домашнее задание к лекции 7 «Асинхронность» 
 
 ## Решения
- * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/2717c0c707c09ca208807eebae2e30c6ed171ca0/7.async/task.js">task.js</a> - код с реализованными функциями.
+ * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/7.async/task.js">task.js</a> - код с реализованными функциями.
 
-<a href="https://github.com/Nephedov/bjs-2-homeworks/tree/2717c0c707c09ca208807eebae2e30c6ed171ca0/7.async">Репозиторий</a> с заданием и тестами.
-Запуск через <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/2717c0c707c09ca208807eebae2e30c6ed171ca0/7.async/index.html">index.html</a>.
+<a href="https://github.com/Nephedov/bjs-2-homeworks/tree/bjs-53/7.async">Репозиторий</a> с заданием и тестами.
+Запуск через <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/7.async/index.html">index.html</a>.
 
 ## Что было сделано
 * Написан класс AlarmClock, в котором реализовано:
