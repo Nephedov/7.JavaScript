@@ -1,4 +1,4 @@
-# Домашнее задание к лекции 7 «Асинхронность» 
+# «Асинхронность» 
 
 ## Решения
  * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/7.async/task.js">task.js</a> - код с реализованными функциями.
